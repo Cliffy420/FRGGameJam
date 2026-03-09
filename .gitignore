@@ -1,0 +1,58 @@
+ # Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio / IDE files
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+
+# Rider / JetBrains
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.old
+
+# Compiled source files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Unreal auto-generated project files
+*.xcodeproj
+*.xcworkspace
+
+# Ignore packaged builds
+WindowsNoEditor/
+LinuxNoEditor/
+MacNoEditor/
+
+# Ignore crash reports
+CrashReportClient/
